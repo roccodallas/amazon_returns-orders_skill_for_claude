@@ -1,4 +1,4 @@
-# Amazon Returns & Orders — Claude Cowork Plugin
+# Amazon Returns & Orders — Claude Cowork Skill
 
 A Claude Cowork skill plugin that makes Amazon returns and order troubleshooting fast and hands-off. Tell Claude what you need, it handles the rest.
 
